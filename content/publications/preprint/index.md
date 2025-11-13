@@ -33,7 +33,7 @@ hugoblox:
     hal: hal-04699730
 
 links:
-- type: preprint
+- type: 
   provider: hal
   id: hal-04699730
 
