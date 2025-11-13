@@ -1,11 +1,11 @@
 ---
-title: "An example preprint / working paper"
+title: "Assurances forestières et politiques publiques: Une approche basée sur la théorie des jeux"
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- Alexandre Lhuisset
+date: "2024"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,44 +16,31 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This study develops a game-theoretic model to analyze how forest owners and insurance companies interact in a low-coverage insurance market in France. Using data from the Landes de Gascogne, the model shows that few owners choose to insure without public intervention. A Stackelberg framework is then used to evaluate state subsidies on premiums and indemnities, revealing that targeted public support can substantially increase insurance uptake at a limited cost. The work highlights key drivers of insurance demand and provides insights for designing more effective forest risk-management policies.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study develops a game-theoretic model to analyze how forest owners and insurance companies interact in a low-coverage insurance market in France. Using data from the Landes de Gascogne, the model shows that few owners choose to insure without public intervention. A Stackelberg framework is then used to evaluate state subsidies on premiums and indemnities, revealing that targeted public support can substantially increase insurance uptake at a limited cost. The work highlights key drivers of insurance demand and provides insights for designing more effective forest risk-management policies.
 
 tags:
-- Large Language Models
+- Game Theory
+- Forest Insurance
+- Public Policy
 
 featured: true
 
 hugoblox:
   ids:
-    arxiv: 1512.04133v1
+    hal: 04699730
 
 links:
 - type: preprint
-  provider: arxiv
-  id: 1512.04133v1
-- type: code
-  url: https://github.com/HugoBlox/hugo-blox-builder
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
-- type: source
-  url: "#"
-- type: video
-  url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
+  provider: hal
+  id: 04699730
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Grok**]
   focal_point: ""
   preview_only: false
 
@@ -63,7 +50,6 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -73,9 +59,3 @@ projects:
 slides: ""
 ---
 
-This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
