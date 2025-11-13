@@ -61,21 +61,13 @@ education:
       time series, spatial econometrics, martingales, Markov chains, survey sampling, anomaly
       detection, and web mining.
 
-  - area: Licence 3 Économie & MIASHS
+  - area: Licence Économie & MIASHS
     institution: Toulouse School of Economics
     icon: ""
     date_start: 2022-09-01
     date_end: 2023-06-30
     summary: |
       Training in mathematics, microeconomics, macroeconomics, and econometrics.
-
-  - area: Magistère d’Économiste-Statisticien
-    institution: Toulouse School of Economics
-    icon: ""
-    date_start: 2022-09-01
-    date_end: 2023-09-01
-    summary: |
-      Multidisciplinary training combining economics, statistics, and computer science.
 
 work:
   - position: PhD Student in AI applied to Economics
