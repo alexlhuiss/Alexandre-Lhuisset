@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Alex Johnson
+title: Alexandre Lhuisset
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 'a.lɛk.sɑ̃dʁ lɥi.sɛ'
 
 # Full name (for SEO)
 first_name: Alexandre
