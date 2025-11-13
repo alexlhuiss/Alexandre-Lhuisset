@@ -30,12 +30,12 @@ featured: true
 
 hugoblox:
   ids:
-    hal: 04699730
+    hal: hal-04699730
 
 links:
 - type: preprint
   provider: hal
-  id: 04699730
+  id: hal-04699730
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
