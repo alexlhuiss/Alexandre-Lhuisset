@@ -139,12 +139,6 @@ skills:
         percent: 70
         icon: book-open
 
-
-design:
-    background:
-      image:
-        # Name of image in `assets/media/`.
-        filename: stacked-peaks.svg
 ---
 
 I am a PhD student in mathematics/AI applied to Economics. I am affiliated to [MIAT](https://miat.inrae.fr/) within the DecA (Decision-making Agents) team.
