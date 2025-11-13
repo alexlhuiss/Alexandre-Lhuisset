@@ -2,7 +2,7 @@
 title: "Assurances forestières et politiques publiques: Une approche basée sur la théorie des jeux"
 authors:
 - Alexandre Lhuisset
-date: "2024"
+date: "2024-09-01"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
