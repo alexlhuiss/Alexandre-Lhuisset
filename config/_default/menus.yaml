@@ -11,6 +11,6 @@ main:
     url: /#papers
     weight: 11
   - name: Curriculum
-    url: experience/
+    url: curriculum/
     weight: 20
 
