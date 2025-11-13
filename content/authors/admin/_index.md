@@ -131,10 +131,10 @@ skills:
     items:
       - name: Running
         percent: 80
-        icon: fa-person-running
+        icon: person-simple-walk
       - name: Football
         percent: 80
-        icon: fa-person-soccer
+        icon: soccer-ball
       - name: Reading
         percent: 70
         icon: book-open
