@@ -23,12 +23,10 @@ sections:
         education: ''
         interests: ''
     design:
-      # Apply a gradient background
-      css_class: hbx-bg-gradient
-      # Avatar customization
-      avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+      background:
+        image:
+          # Name of image in `assets/media/`.
+          filename: stacked-peaks.svg
   - block: markdown
     content:
       title: 'Collaborate'
