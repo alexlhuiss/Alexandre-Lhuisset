@@ -40,7 +40,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Grok**](https://grok.com/)'
+  caption: 'Image credit: [**Grok**]'
   focal_point: ""
   preview_only: false
 
