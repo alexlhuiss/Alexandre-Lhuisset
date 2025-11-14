@@ -24,18 +24,8 @@ sections:
         interests: ''
       design:
         css: |
-          .profile {
-            margin-bottom: 2rem;        /* espace sous la photo */
-          }
-          .portrait-title h1 {
-            margin-top: 1rem;           /* espace entre le nom et la prononciation */
-            margin-bottom: 1rem;        /* espace entre le nom et le titre */
-          }
-          .portrait-title .big-title {
-            margin-bottom: 1.5rem;      /* espace sous ton titre */
-          }
-          .portrait-title + .btn-download {
-            margin-top: 2rem;           /* espace au dessus du bouton CV */
+          .about-biography {
+            column-gap: 4rem;   /* espace entre les 2 colonnes */
           }
     design:
       background:
