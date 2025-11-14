@@ -136,7 +136,7 @@ skills:
         icon: ph/person-simple-walk
       - name: Football
         percent: 80
-        icon: custom/ph--soccer-ball
+        icon: <ph-soccer-ball size='18'></ph-soccer-ball>
       - name: Reading
         percent: 70
         icon: book-open
