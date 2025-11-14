@@ -8,13 +8,12 @@ design:
   # Default section spacing
   spacing: '6rem'
 
+
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ''
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Full CV
         url: uploads/resume.pdf
@@ -22,18 +21,22 @@ sections:
         about: ''
         education: ''
         interests: ''
-      design:
-        css: |
-          .about-biography {
-            column-gap: 4rem;   /* espace entre les 2 colonnes */
-          }
     design:
       background:
         image:
           filename: stacked-peaks.svg
       spacing:
-        # top, right, bottom, left
         padding: ['0', '80px', '0', '0']
+      css: |
+        section[data-block="resume-biography-3"] .grid {
+          gap: 2.5rem;          /* espace général entre les colonnes/éléments */
+        }
+
+        @media (min-width: 1024px) {
+          section[data-block="resume-biography-3"] .grid {
+            column-gap: 4rem;   /* encore plus d'espace entre gauche/droite sur grand écran */
+          }
+        }
   - block: markdown
     content:
       title: 'Collaborate'
