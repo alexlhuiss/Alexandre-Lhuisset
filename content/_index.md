@@ -32,7 +32,7 @@ sections:
       title: 'Collaborate'
       subtitle: ''
       text: |-
-        Do not hesitate to reach out in order to collaborate 😃
+        Do not hesitate to reach out in order to collaborate
     design:
       columns: '1'
   - block: collection
