@@ -136,8 +136,7 @@ skills:
         icon: person-simple-walk
       - name: Football
         percent: 80
-        icon: futbol
-        icon_pack: fas
+        icon: custom/futbol
       - name: Reading
         percent: 70
         icon: book-open
