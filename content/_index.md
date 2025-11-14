@@ -25,8 +25,10 @@ sections:
     design:
       background:
         image:
-          # Name of image in `assets/media/`.
           filename: stacked-peaks.svg
+        spacing:
+        # top, right, bottom, left
+        padding: ['80px', '0', '80px', '0']
   - block: markdown
     content:
       title: 'Collaborate'
