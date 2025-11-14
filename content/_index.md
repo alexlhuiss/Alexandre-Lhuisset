@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '6rem'
+  spacing: '20rem'
 
 sections:
   - block: resume-biography-3
@@ -26,9 +26,9 @@ sections:
       background:
         image:
           filename: stacked-peaks.svg
-      spacing:
+      #spacing:
         # top, right, bottom, left
-        padding: ['0', '80px', '0', '0']
+        #padding: ['0', '80px', '0', '0']
   - block: markdown
     content:
       title: 'Collaborate'
