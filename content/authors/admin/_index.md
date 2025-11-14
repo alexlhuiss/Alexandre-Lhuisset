@@ -137,6 +137,7 @@ skills:
       - name: Football
         percent: 80
         icon: futbol
+        icon_pack: fas
       - name: Reading
         percent: 70
         icon: book-open
