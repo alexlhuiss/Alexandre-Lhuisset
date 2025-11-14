@@ -136,7 +136,7 @@ skills:
         icon: person-simple-walk
       - name: Football
         percent: 80
-        icon: soccer-ball
+        icon: futbol
       - name: Reading
         percent: 70
         icon: book-open
